@@ -24,7 +24,8 @@
 
 int main(void)
  {
-  int n;	//鸡兔总量  int m;	//鸡兔总腿数
+  int n;	//鸡兔总量
+  int m;	//鸡兔总腿数
   int a;	//鸡的数量
   int b;	//兔的数量
 
